@@ -1,8 +1,15 @@
 {
+  "name": "clmtrackr",
+  "description": "Javascript library for precise tracking of facial features via Constrained Local Models",
+  "author": "Audun Mathias Øygard",
+  "license": "MIT",
+  "version": "1.0.0",
+  "keywords": [],
   "repository": {
     "type": "git",
     "url": "https://github.com/auduno/clmtrackr.git"
   },
+  "main": "clmtrackr.js",
   "devDependencies": {
     "grunt": "~0.4.2",
     "grunt-contrib-concat": "~0.3.0",
